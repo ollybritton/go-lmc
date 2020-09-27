@@ -1,0 +1,5 @@
+    INP
+    STA 01
+    INP
+    ADD 01
+    OUT
